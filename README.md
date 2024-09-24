@@ -104,14 +104,10 @@ def policy_iteration(P, gamma=0.9, theta=1e-10):
 
 ## OUTPUT:
 # ADVERSAL POLICY: 
-<img src="https://github.com/user-attachments/assets/49ed134c-602d-4418-8847-86ecb5151f3a" width=50%>
+<img src="https://github.com/user-attachments/assets/dc7eddeb-ecb5-44a6-9c86-71b30cf2401b" width=50%>
 <img src="https://github.com/user-attachments/assets/774481bb-0f05-4661-b24b-47241a0e6f3e" width=50%>
 <img src="https://github.com/user-attachments/assets/d49822ae-7d36-427b-a9b1-b207b71579db" width=50%>
 
-# Optimal Policy with Gamma = 0.90: 
-<img src="https://github.com/user-attachments/assets/9159fa05-5d5a-4e76-9890-85117ac3b059" width=50%>
-<img src="https://github.com/user-attachments/assets/7d31f357-2ac6-4f63-94f7-702b9cfd5802" width=50%>
-<img src="https://github.com/user-attachments/assets/2d9a7e1c-246f-461f-a060-b4fce1640c85" width=50%>
 
 ## RESULT:
 Thus, Python program is developed to find the optimal policy for the given MDP using the policy iteration algorithm.
